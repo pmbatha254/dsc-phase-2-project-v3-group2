@@ -207,7 +207,8 @@ plt.show()
 
 
     
-![png](output_30_0.png)
+<img width="1001" height="699" alt="output_30_0" src="https://github.com/user-attachments/assets/3820dd68-28f3-44e9-91b1-c11fe50cd490" />
+
     
 
 
