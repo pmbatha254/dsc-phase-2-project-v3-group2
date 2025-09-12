@@ -206,13 +206,6 @@ plt.show()
 ```
 
 
-    
-<img width="1001" height="699" alt="output_30_0" src="https://github.com/user-attachments/assets/3820dd68-28f3-44e9-91b1-c11fe50cd490" />
-
-    
-
-
-
 ```python
 # Determine a suitable threshold for total_votes
 # Looking at the scatter plot, a threshold of 10000 seems reasonable to exclude genres with very few votes.
@@ -281,7 +274,8 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+<img width="1484" height="689" alt="output_38_0" src="https://github.com/user-attachments/assets/3f4d38fc-fd66-4989-94da-4c33b2483d26" />
+
     
 
 
@@ -298,8 +292,8 @@ plt.show()
 ```
 
 
-    
-![png](output_39_0.png)
+<img width="1489" height="689" alt="output_39_0" src="https://github.com/user-attachments/assets/9ff102d3-cb41-4b26-8887-35bbaa2043f4" />
+
     
 
 
@@ -344,11 +338,8 @@ plt.show()
 correlation = df_individual_genre_analysis['avg_rating'].corr(df_individual_genre_analysis['total_votes'])
 
 print(f"The correlation coefficient between average rating and total votes for individual genres is: {correlation:.2f}")
-```
+``
 
-
-    
-![png](output_43_0.png)
     
 The correlation coefficient between average rating and total votes for individual genres is: -0.40
 
@@ -455,7 +446,8 @@ plt.show()
 
 
     
-![png](output_58_0.png)
+<img width="691" height="545" alt="output_58_0" src="https://github.com/user-attachments/assets/7ec2db7d-0bba-446e-9f8c-a639ca4bdcd6" />
+
     
 
 
@@ -575,7 +567,8 @@ plt.show()
 
 
     
-![png](output_69_0.png)
+<img width="1189" height="690" alt="output_69_0" src="https://github.com/user-attachments/assets/31d3155a-a4e6-4f48-b39e-aaa3c5631d8a" />
+
     
 
 
